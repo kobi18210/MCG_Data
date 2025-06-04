@@ -1,0 +1,16 @@
+subject1_preprocessed_trial11 8 200 14260
+subject1_preprocessed_trial11.dat 212 49.76964685898438(448)/pT 12 0 1806 1082 0 Sensor 0  -Y
+subject1_preprocessed_trial11.dat 212 56.99988138076108(-500)/pT 12 0 1935 43228 0 Sensor 0  Z
+subject1_preprocessed_trial11.dat 212 48.79817840205187(556)/pT 12 0 1606 30773 0 Sensor 1  -Y
+subject1_preprocessed_trial11.dat 212 40.66327340871056(-134)/pT 12 0 1772 61306 0 Sensor 1  Z
+subject1_preprocessed_trial11.dat 212 44.679782310424514(444)/pT 12 0 1648 17783 0 Sensor 2  -Y
+subject1_preprocessed_trial11.dat 212 41.05367944425636(-922)/pT 12 0 1843 21104 0 Sensor 2  X
+subject1_preprocessed_trial11.dat 212 50.73527484254635(336)/pT 12 0 1636 54556 0 Sensor 3  -Y
+subject1_preprocessed_trial11.dat 212 40.673066045711614(-773)/pT 12 0 1973 35869 0 Sensor 3  X
+# <age>: 26
+# <sex>: m
+# <year of recording>: 2022
+# <position sensor 0 [cm]>: [-11  17  -8]
+# <position sensor 1 [cm]>: [-14  17  -5]
+# <position sensor 2 [cm]>: [-14  17  -8]
+# <position sensor 3 [cm]>: [-11  17  -5]
